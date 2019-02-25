@@ -1,0 +1,2 @@
+# moduse
+go mod use
